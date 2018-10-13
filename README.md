@@ -8,6 +8,7 @@ Core Links:
 - [Training Neural Networks Without Gradients: A Scalable ADMM Approach](https://arxiv.org/pdf/1605.02026.pdf)
 
 Supplimental Links:
+- [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
 - [Efficient Distributed SGD with Variance Reduction](https://arxiv.org/pdf/1512.02970.pdf)
 - ["Awesome" Examples of GANS](https://github.com/nashory/gans-awesome-applications)
 - [What does fault tolerant Deep Learning need from MPI?](https://arxiv.org/pdf/1709.03316.pdf)
