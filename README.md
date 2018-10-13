@@ -11,6 +11,9 @@ GANs:
 - [Improved Techniques for Training GANs](https://arxiv.org/pdf/1606.03498.pdf)
 - ["Awesome" Examples of GANS](https://github.com/nashory/gans-awesome-applications)
 
+Distributed GANs (Why aren't there more of these?):
+- [Training Generative Adversarial Models over Distributed Computing Systems](https://www.youtube.com/watch?v=joxS5NKXtdA)
+
 Distribution idea Links:
 - [Efficient Distributed SGD with Variance Reduction](https://arxiv.org/pdf/1512.02970.pdf)
 - [What does fault tolerant Deep Learning need from MPI?](https://arxiv.org/pdf/1709.03316.pdf)
